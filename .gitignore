@@ -13,3 +13,4 @@ application/src-tauri/Cargo.lock
 application/package-lock.json
 /concept/target
 /concept/tmp
+concept/myvideo.mp4
